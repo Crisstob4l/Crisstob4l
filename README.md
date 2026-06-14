@@ -23,11 +23,7 @@
 
 
 <p >
-  Computer Science student specialized in the area of cybersecurity, with a focus on pentesting. I have skills in competitive programming and backend programming. I have acquired practical experience in ethical hacking by participating in CTF challenges and performing exercises in controlled labs.
-
-I have taken cybersecurity courses offered by Google, Cisco and EC-Council, which have reinforced my knowledge and skills in this field. I have participated in programming competitions on various platforms such as OmegaUp and HackerRank, as well as in various programming competitions such as ICPC and Hacker Cup of meta to name a few.
-
-My goal is to use my skills and knowledge to improve the security of systems and contribute to the cybersecurity community.
+  Computer engineer specializing in full-stack web development, with a solid foundation in backend and frontend architecture and competitive programming. I am passionate about building web systems, incorporating cybersecurity practices from the very beginning. My skills are complemented by hands-on experience in ethical hacking through CTF challenges and controlled labs, as well as certifications from Google, Cisco, and EC-Council. With strong algorithmic problem-solving skills honed in competitions such as the ICPC and the Meta Hacker Cup, as well as on platforms like OmegaUp and HackerRank, my goal is to leverage my experience in software development and offensive security to design secure, scalable, and efficient systems.
 
 </p>
 
