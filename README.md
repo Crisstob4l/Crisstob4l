@@ -34,7 +34,7 @@ I hold a bachelor’s degree in Computer Science with a specialization in full-s
 <p align="center">
   <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" alt="NestJS" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express/white" alt="Express.js" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://typeorm.io/" target="_blank"><img src="https://cdn.simpleicons.org/typeorm/FE0803" alt="TypeORM" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
